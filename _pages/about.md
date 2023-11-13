@@ -20,7 +20,7 @@ Experience
 	{%  include experience.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
         author_list="University of Warwick"
-		img_path="cfsa.jpg"
+		img_path="CFSA.jpg"
 		title="Research fellow"
     published_in="January 2023 - August 2023"
 	%}
@@ -36,7 +36,7 @@ Experience
 	{%  include experience.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
         author_list="University of Warwick"
-		img_path="cfsa.jpg"
+		img_path="CFSA.jpg"
 		title="PhD Researcher"
     published_in="September 2017 - December 2022"
 	%}
@@ -45,7 +45,7 @@ Experience
 	{%  include experience.html
 		url="https://nso.edu/"
         author_list="National Solar Observatory"
-		img_path="nso.jpg"
+		img_path="NSO.jpg"
 		title="Visiting Research Assistant"
     published_in="October 2019 - March 2021"
 	%}
