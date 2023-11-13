@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ATest: Tishtrya Mehta's personal website.
+A Test: Tishtrya Mehta's personal website.
 
 Example link here [here](https://artanis.substack.com/p/atlas-ai-part-1-everyones-got-a-gantt).
 
