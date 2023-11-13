@@ -3,6 +3,6 @@ main:
   - title: "Home"
     url: /
   - title: "Outreach"
-    url: /blog/
+    url: /Outreach/
   - title: "CV"
     url: "/cv.pdf"
