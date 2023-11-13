@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-AI PhD and former AI startup founder. I‘ve been training deep learning models since 2015.
+ATest: Tishtrya Mehta's personal website.
 
-I got my Masters in Computer Science (2013-2017) and PhD in Computer Vision (2017-2021) from the University of Warwick. During my PhD, I published 5 papers including a journal paper in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) and a best student paper award at IEEE Computer Vision and Pattern Recognition Workshop (CVPR-W). As a visting researcher, I've worked at the Nanyang Technological University, Michigan State University, and the University of Sydney.
-
-I was a Founding Computer Vision Engineer (2021-2022) and later CTO (2023) of Atlas AI. Atlas AI was a startup using computer vision to automate personal training. We shut down Atlas AI in December 2023 after failing to find product-market fit. We've written a series of blog posts about our four-year startup journey [here](https://artanis.substack.com/p/atlas-ai-part-1-everyones-got-a-gantt).
+Example link here [here](https://artanis.substack.com/p/atlas-ai-part-1-everyones-got-a-gantt).
 
 ---
 
