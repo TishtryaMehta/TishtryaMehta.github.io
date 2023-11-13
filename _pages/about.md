@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-A Test: Tishtrya Mehta's personal website.
+Experienced data scientist with expertise in leveraging data to make meaningful change since 2016. Former Solar Physicist, with a background in assessing quasi-oscillatory signals of solar and stellar origin.
 
-Example link here [here](https://artanis.substack.com/p/atlas-ai-part-1-everyones-got-a-gantt).
+[Award winning](https://warwick.ac.uk/fac/sci/physics/news/?newsItem=8a17841b8659de1e0186a2cd70aa1649) science communicator and outreach expert, with strong experience in on-stage and hands-on live science shows. 
 
 ---
 
@@ -18,24 +18,35 @@ Experience
 ======
 <table style="border: none">  
 	{%  include experience.html
-		url="https://www.atlasai.co.uk"
-        author_list="Atlas AI"
-		img_path="atlas_small.jpg"
-		title="Cofounder, CTO"
-    published_in="January 2023 - December 2023"
+		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
+        author_list="University of Warwick"
+		img_path="cfsa.jpg"
+		title="Research fellow"
+    published_in="January 2023 - August 2023"
 	%}
+
 	{%  include experience.html
-		url="https://www.atlasai.co.uk"
-        author_list="Atlas AI"
-		img_path="atlas_small.jpg"
-		title="Founding Computer Vision Engineer"
-    published_in="September 2021 - December 2022"
+		url=""
+        author_list=""
+		img_path="tishtrya_outreach.jpg"
+		title="Freelance Science Communicator"
+    published_in="September 2016 - Current"
 	%}
+
 	{%  include experience.html
-		url="https://www.gov.uk/government/organisations/defence-and-security-accelerator"
-        author_list="Defence and Security Accelerator"
-		img_path="dasa.jpg"
-		title="Research Assistant"
+		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
+        author_list="University of Warwick"
+		img_path="cfsa.jpg"
+		title="PhD Researcher"
+    published_in="September 2017 - December 2022"
+	%}
+
+
+	{%  include experience.html
+		url="https://nso.edu/"
+        author_list="National Solar Observatory"
+		img_path="nso.jpg"
+		title="Visiting Research Assistant"
     published_in="October 2019 - March 2021"
 	%}
 </table><br>
