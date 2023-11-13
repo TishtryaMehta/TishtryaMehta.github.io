@@ -25,7 +25,13 @@ Experience
     published_in="January 2023 - August 2023"
 	%}
 
-
+	{%  include experience.html
+		url=""
+        author_list=""
+		img_path="tishtrya_outreach.jpg"
+		title="Freelance Science Communicator"
+    published_in="September 2016 - Current"
+	%}
 
 	{%  include experience.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
