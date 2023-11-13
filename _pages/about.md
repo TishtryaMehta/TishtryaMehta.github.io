@@ -36,7 +36,7 @@ Experience
 	{%  include experience.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
         author_list="University of Warwick"
-		img_path="CFSA.jpg"
+		img_path="CFSA.png"
 		title="PhD Researcher"
     published_in="September 2017 - December 2022"
 	%}
@@ -57,61 +57,42 @@ Publications
 ======
 <table style="border: none">  
 	{%  include publications.html
-        url="https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Kesa_Multiple_Object_Tracking_and_Forecasting_Jointly_Predicting_Current_and_Future_WACVW_2022_paper.pdf"
+        url="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://watermark.silverchair.com/stad1619.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1gwggNUBgkqhkiG9w0BBwagggNFMIIDQQIBADCCAzoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMa5XMcUauGjmzVMrRAgEQgIIDC_E4AnVJS5cVX-nDJwf5DIibjofRgCHCO-HbVaDgk3h9Sw4AhdzgZZoK3k1wZBIFbsArRe8OfiA45Y-PstgCIBOYKC8y3QluvWuu05KAJ1TQBiz9PEeyQ23kgWGXwugkTao6RIx361Cm1esO-OQVI_zBTk4oZv9cvi3EC2-og6nH8x7XTk1brr_w30obp2mHrjIweQKO_9tjuQHLeaNL1yTKSxOcWRdp_k26IpVnRraZNHSXDA1f8OXTGI8YQOn5eYzbzk8S2rpyom4xNg7Q-4SfdAFL4EljC5Tdcdhj94IXQg8dWnJR7-xU-ibBJ7msrQt2tRtYK6zGNKjTjtdQLBCXWQERz1asvkLnsTNWs6mOhgndsH7CBF0Vu0BnEdlG1yomMxBwhJKHl7FnEQP9CadcUg8gTaCSb7DXAZi9BWxZv_9zL0VN8I8pPp3s4KG1KG34j5vZMj4Vc8V8R_jZvAxV_V5N9dKkmdPzg-X7mhBysMTbT6lKlnPyh3HbcL0Kw2eswPh0zLVyzGGOMoiJA67oXj7LQXWijOLqndJb7U7kbw0LKcmiSanN7BB0H1DN8dvK6zV6y4AcSfTv82BSm2tIu2XoTq7dR5Ux_KBckmDl9M-EAJXiaQujthE5t1Mp_uay8bX3OnJ-OZaFxfimrFY7SLC-CoKcqOy8Yr5UePRnAHXlSIhdlnOMcBPaCOCneoA8pxnUdckD7G852IRJ3t1aUdJSH4dT7yCUvqtrcm1sFacY_waW2S20G2z824d42M3sgECOUN5wPnWn0fOggbBT62_bPNknV8M8PXWg9qjpkpzzFckWkuqS6soUh9SPDreBxDKSuwB2Ct7JILGtqbUqhIW0uCQ_4_EIoT8LdxJ_4n2v1v_MI9yM8C7oUSlFOj7RooL9Vw2zF6hqzGQFhvYOBdocClb0eFiDjz2J0Ok1quv0NKmfUAY2BV0vSKhAN5GMae4jqcXJFtRDwvR07EOAu8PBgTkZASZ_keL5jerLcbmpQz17k5BYbxgcg-D5fafC6lMoeYZTJFm1"
 		img_path="jla.png"
-		title="Multi-Camera Trajectory Forecasting with Trajectory Tensors"
-		author_list="Oluwafunmilola Kesa, <u>Olly Styles</u>, Victor Sanchez"
-		published_in="WACV-W 2022"
-        code_url="https://github.com/FunmiKesa/JLA"
+		title="Prevalence of non-stationarity in Quasi-Periodic Pulsations (QPPs) associated with M- and X- class solar flares"
+		author_list="Mehta, T., Broomhall, A.-M., Hayes, L. "
+		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
 	%}
 </table><br>
+
 <table style="border: none">  
 	{%  include publications.html
-        url="https://arxiv.org/pdf/2108.04694.pdf"
+        url="https://academic.oup.com/astrogeo/article-abstract/63/5/5.21/6697060"
 		img_path="trajectory_tensors.jpg"
-		title="Multi-Camera Trajectory Forecasting with Trajectory Tensors"
-		author_list="<u>Olly Styles</u>, Tanaya Guha, Victor Sanchez"
-		published_in="PAMI 2021"
-        code_url="https://github.com/olly-styles/Trajectory-Tensors"
+		title="Reach Out, Touch Space"
+		author_list="Mehta, T., McDonald, C., Nealon, B."
+		published_in="Astronomy & Geophysics (A&G), 2022"
         video="https://youtu.be/IjlNEvKQ634"
 	%}
 </table><br>
 
 <table style="border: none">  
 	{%  include publications.html
-        url="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Styles_Multi-Camera_Trajectory_Forecasting_Pedestrian_Trajectory_Prediction_in_a_Network_of_CVPRW_2020_paper.pdf"
+        url="https://academic.oup.com/mnras/article/515/2/2415/6650367"
 		img_path="mctf.jpg"
-		title="Multi-Camera Trajectory Forecasting: Pedestrian Trajectory Prediction in a Network of Cameras"
-		author_list="<u>Olly Styles</u>, Tanaya Guha, Victor Sanchez, Alex Kot"
-		published_in="CVPR-W 2020 (Best student paper award)"
-        code_url="https://github.com/olly-styles/Multi-Camera-Trajectory-Forecasting"
-        video="https://www.youtube.com/watch?v=WtuQHU95WMQ"
+		title="Cycle dependence of a quasi-biennial variability in the solar interior"
+		author_list="Mehta, T., Jain, K., Tripathy, S.C., Keifer, R., Kolotkov, D., Broomhall, A.-M. "
+		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
 	%}
 </table><br>
 
 <table style="border: none">  
 	{%  include publications.html
-        url="https://openaccess.thecvf.com/content_WACV_2020/papers/Styles_Multiple_Object_Forecasting_Predicting_Future_Object_Locations_in_Diverse_Environments_WACV_2020_paper.pdf"
+        url="https://0-iopscience-iop-org.pugwash.lib.warwick.ac.uk/article/10.3847/1538-4365/ab40b3"
 		img_path="wacv_2020.jpg"
-		title="Multiple Object Forecasting: Predicting Future Object Locations in Diverse Environments"
-		author_list="<u>Olly Styles</u>, Tanaya Guha, Victor Sanchez"
-		published_in="WACV 2020"
-        code_url="https://github.com/olly-styles/Multiple-Object-Forecasting"
-        poster="https://olly-styles.github.io/files.nosync/wacv2020_poster.pdf"
-        video="https://www.youtube.com/watch?v=GPdNKE6fq6U&feature=youtu.be"
-	%}
-</table><br>
-
-<table style="border: none">  
-	{%  include publications.html
-		url="https://arxiv.org/pdf/1905.03681.pdf"
-		img_path="iv2019.png"
-		title="Forecasting Pedestrian Trajectory with Machine-annotated Training Data"
-		author_list="<u>Olly Styles</u>, Arun Ross, Victor Sanchez"
-		published_in="IV 2019"
-    code_url="https://github.com/olly-styles/Dynamic-Trajectory-Predictor"
-    video="https://www.youtube.com/watch?v=jUTQyUjeynE"
-    poster="https://olly-styles.github.io/files.nosync/iv2019_poster.pdf"
+		title="A blueprint of state-of-the-art techniques for detecting quasi-periodic pulsations in solar and stellar flares"
+		author_list="Broomhall, A-M., Davenport, J., Hayes, L., Inglis, A., Kolotkov, D., McLaughlin, J., Mehta, T., Nakariakov, V., Notsu, Y., Pascoe, D., Pugh, C. and Van Doorsselaere, T."
+		published_in="The Astrophyisical Journal (ApJ) 2019"
 	%}
 </table><br>
 
@@ -121,12 +102,13 @@ Education
 ======
 <table style="border: none">  
 	{%  include education.html
-		url="https://warwick.ac.uk/fac/sci/dcs/people/victor_sanchez/siplab/"
+		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/mehta/"
 		img_path="warwick.png"
-		title="PhD in Computer Vision"
-		author_list="Supervisors: Dr. Victor Sanchez & Dr. Tanaya Guha"
-    published_in="Sep 2017 - September 2021"
+		title="PhD in Physics"
+		author_list="Supervisors: Dr. Anne-Marie Broomhall"
+    published_in="Sep 2016 - December 2022"
 	%}
+
 	{%  include education.html
 		url="https://rose.ntu.edu.sg/Pages/Home.aspx"
 		img_path="ntu_logo2.jpg"
