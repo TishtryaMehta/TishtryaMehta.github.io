@@ -1,7 +1,7 @@
 ---
 permalink: /Outreach/
-title: "Outreach & Public Engagement"
-excerpt: "Outreach & Public Engagement"
+title: "Science Communication, Outreach, & Public Engagement"
+excerpt: "Science Communication, Outreach, & Public Engagement"
 author_profile: true
 ---
 
