@@ -1,5 +1,5 @@
 ---
-permalink: /Science Commuication/
+permalink: /Outreach/
 title: "Outreach & Public Engagement"
 excerpt: "Outreach & Public Engagement"
 author_profile: true
