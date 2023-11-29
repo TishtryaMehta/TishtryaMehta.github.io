@@ -31,5 +31,8 @@ I've also regularly spoken at Warwick's Christmas Lectures to audiences of 1000+
 	%}
 </table>
 
-If you are planning an outreach event, or want to discuss improving inclusion etc. please get in touch! STEM Ambassador (DBS checked), with certification in Child Protection Fundamentals.
+
+I'm available to write and perform bespoke lectures/ live science shows, ideal for audiences aged 7 and up. To enquire about my speakers fee, or if you are planning an outreach event, and want to discuss improving inclusion etc. please get in touch at [tishtrya.mehta@gmail.com](tishtrya.mehta@gmail.com)! 
+
+I am a former STEM Ambassador, with a full and up-to-date DBS check, with certification in Child Protection Fundamentals.
 
