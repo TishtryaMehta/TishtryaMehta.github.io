@@ -12,7 +12,7 @@ I have also spoken at a number of 'Pint of Science' public lectures: "What to do
 <table style="border: none">  
 	{%  include experience.html
 		url="https://www.youtube.com/watch?v=TjHttkL6ie0&t=264s"
-		img_path="PoS_2022_1.png"
+		img_path="PoS_2021_2.png"
 		title="Escaping the Sun: a photon's 100,000 year journey"
 		published_in="2021"
 	%}
