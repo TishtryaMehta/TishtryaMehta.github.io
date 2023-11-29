@@ -106,45 +106,23 @@ Education
 		img_path="warwick.png"
 		title="PhD in Physics"
 		author_list="Supervisors: Dr. Anne-Marie Broomhall"
-    published_in="Sep 2016 - December 2022"
+    published_in="Sep 2018 - December 2022"
 	%}
 
 	{%  include education.html
-		url="https://rose.ntu.edu.sg/Pages/Home.aspx"
-		img_path="ntu_logo2.jpg"
-		title="Visiting Researcher"
-		author_list="Supervisor: Prof. Alex Kot"
-    published_in="Aug 2019 - Dec 2019"
-	%}
-	{%  include education.html
-		url="https://iprobe.cse.msu.edu/index.php"
-		img_path="msu.png"
-		title="Visiting Researcher"
-		author_list="Supervisor: Dr. Arun Ross"
-    published_in="Sep 2018 - Dec 2018"
-	%}
-	{%  include education.html
-		url="https://sydney.edu.au/"
-		img_path="usyd.png"
-		title="Visiting Researcher"
-		author_list="Supervisor: Dr. Dong Xu"
-    published_in="Mar 2018 - Jul 2018"
-	%}
-	{%  include education.html
-		url="https://warwick.ac.uk/fac/sci/dcs/"
+		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
 		img_path="warwick.png"
-		title="Master of Computer Science (1st class)"
-		author_list="Supervisor: Dr. Victor Sanchez"
-    published_in="Sep 2013 - Jun 2017"
+		title="Masters (by Research) in Physics"
+		author_list="Supervisor: Prof. Valery Nakariakov"
+    published_in="Sep 2017 - Sep 2018"
+	%}
+	{%  include education.html
+		url="https://www.st-andrews.ac.uk/physics-astronomy/"
+		img_path="StA.png"
+		title="Bachelors in Science in Theoretical Physics and Applied Maths"
+    published_in="Sep 2014 - Jul 2017"
 	%}
 
-	{%  include education.html
-		url="https://www.ust.hk/home"
-		img_path="hkust.png"
-		title="Intercalated Year"
-		author_list="Supervisor: Prof. Dit-Yan Yeung"
-    published_in="Aug 2015 - Jun 2016"
-	%}
 </table><br>
 
 ---
