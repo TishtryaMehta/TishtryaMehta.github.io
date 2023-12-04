@@ -58,7 +58,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://watermark.silverchair.com/stad1619.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1gwggNUBgkqhkiG9w0BBwagggNFMIIDQQIBADCCAzoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMa5XMcUauGjmzVMrRAgEQgIIDC_E4AnVJS5cVX-nDJwf5DIibjofRgCHCO-HbVaDgk3h9Sw4AhdzgZZoK3k1wZBIFbsArRe8OfiA45Y-PstgCIBOYKC8y3QluvWuu05KAJ1TQBiz9PEeyQ23kgWGXwugkTao6RIx361Cm1esO-OQVI_zBTk4oZv9cvi3EC2-og6nH8x7XTk1brr_w30obp2mHrjIweQKO_9tjuQHLeaNL1yTKSxOcWRdp_k26IpVnRraZNHSXDA1f8OXTGI8YQOn5eYzbzk8S2rpyom4xNg7Q-4SfdAFL4EljC5Tdcdhj94IXQg8dWnJR7-xU-ibBJ7msrQt2tRtYK6zGNKjTjtdQLBCXWQERz1asvkLnsTNWs6mOhgndsH7CBF0Vu0BnEdlG1yomMxBwhJKHl7FnEQP9CadcUg8gTaCSb7DXAZi9BWxZv_9zL0VN8I8pPp3s4KG1KG34j5vZMj4Vc8V8R_jZvAxV_V5N9dKkmdPzg-X7mhBysMTbT6lKlnPyh3HbcL0Kw2eswPh0zLVyzGGOMoiJA67oXj7LQXWijOLqndJb7U7kbw0LKcmiSanN7BB0H1DN8dvK6zV6y4AcSfTv82BSm2tIu2XoTq7dR5Ux_KBckmDl9M-EAJXiaQujthE5t1Mp_uay8bX3OnJ-OZaFxfimrFY7SLC-CoKcqOy8Yr5UePRnAHXlSIhdlnOMcBPaCOCneoA8pxnUdckD7G852IRJ3t1aUdJSH4dT7yCUvqtrcm1sFacY_waW2S20G2z824d42M3sgECOUN5wPnWn0fOggbBT62_bPNknV8M8PXWg9qjpkpzzFckWkuqS6soUh9SPDreBxDKSuwB2Ct7JILGtqbUqhIW0uCQ_4_EIoT8LdxJ_4n2v1v_MI9yM8C7oUSlFOj7RooL9Vw2zF6hqzGQFhvYOBdocClb0eFiDjz2J0Ok1quv0NKmfUAY2BV0vSKhAN5GMae4jqcXJFtRDwvR07EOAu8PBgTkZASZ_keL5jerLcbmpQz17k5BYbxgcg-D5fafC6lMoeYZTJFm1"
-		img_path="jla.png"
+		img_path="QPP.PNG"
 		title="Prevalence of non-stationarity in Quasi-Periodic Pulsations (QPPs) associated with M- and X- class solar flares"
 		author_list="Mehta, T., Broomhall, A.-M., Hayes, L. "
 		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
@@ -68,18 +68,17 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://academic.oup.com/astrogeo/article-abstract/63/5/5.21/6697060"
-		img_path="trajectory_tensors.jpg"
+		img_path="COASTER.jpg"
 		title="Reach Out, Touch Space"
 		author_list="Mehta, T., McDonald, C., Nealon, B."
-		published_in="Astronomy & Geophysics (A&G), 2022"
-        video="https://youtu.be/IjlNEvKQ634"
+		published_in="Astronomy & Geophysics (A&G), 2022""
 	%}
 </table><br>
 
 <table style="border: none">  
 	{%  include publications.html
         url="https://academic.oup.com/mnras/article/515/2/2415/6650367"
-		img_path="mctf.jpg"
+		img_path="QBO.PNG"
 		title="Cycle dependence of a quasi-biennial variability in the solar interior"
 		author_list="Mehta, T., Jain, K., Tripathy, S.C., Keifer, R., Kolotkov, D., Broomhall, A.-M. "
 		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
@@ -89,7 +88,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://0-iopscience-iop-org.pugwash.lib.warwick.ac.uk/article/10.3847/1538-4365/ab40b3"
-		img_path="wacv_2020.jpg"
+		img_path="EMD.PNG"
 		title="A blueprint of state-of-the-art techniques for detecting quasi-periodic pulsations in solar and stellar flares"
 		author_list="Broomhall, A-M., Davenport, J., Hayes, L., Inglis, A., Kolotkov, D., McLaughlin, J., Mehta, T., Nakariakov, V., Notsu, Y., Pascoe, D., Pugh, C. and Van Doorsselaere, T."
 		published_in="The Astrophyisical Journal (ApJ) 2019"
