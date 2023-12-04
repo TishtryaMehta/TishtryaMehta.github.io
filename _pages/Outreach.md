@@ -11,7 +11,7 @@ I have also spoken at a number of 'Pint of Science' public lectures: "What to do
 
 <table style="border: none">  
 	{%  include experience.html
-		img_path="images/PoS_2021_2.png"
+		img_path="PoS_2021_2.png"
 		title="Escaping the Sun: a photon's 100,000 year journey"
 		published_in="2021"
 	%}
@@ -24,7 +24,7 @@ I've also regularly spoken at Warwick's Christmas Lectures to audiences of 1000+
 <table style="border: none">  
 	{%  include experience.html
 		url="https://artanis.substack.com/p/your-startup-shouldnt-be-a-rocketship"
-		img_path="images/PoS_2022_2.png"
+		img_path="PoS_2022_2.png"
 		title="How to measure distances in space: The astronomical ruler"
 		published_in="November 2020"
 	%}
