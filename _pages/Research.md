@@ -61,7 +61,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://academic.oup.com/mnras/article/515/2/2415/6650367"
-		img_path="QBO.png"
+		img_path="QBO.PNG"
 		title="Cycle dependence of a quasi-biennial variability in the solar interior"
 		author_list="Mehta, T., Jain, K., Tripathy, S.C., Keifer, R., Kolotkov, D., Broomhall, A.-M. "
 		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
@@ -114,9 +114,9 @@ University Teaching
 <table style="border: none">  
 	{%  include modules.html
 		url="https://courses.warwick.ac.uk/modules/2023/PX154-10"
-		img_path="PX145.png"
-		title="Senior Graduate Class Teacher for undergraduate students, leading weekly sessions to up to 25 students covering Electricity and Magnetism, Physics Foundations, Classical mechanics, Special Relativity, Thermal Physics, and Quantum phenomena"
-		author_list="Lab tutor"
+		img_path="PX145.PNG"
+		title="Senior Graduate Class Teacher"
+		author_list="Taught undergraduate students, leading weekly sessions to up to 25 students covering Electricity and Magnetism, Physics Foundations, Classical mechanics, Special Relativity, Thermal Physics, and Quantum phenomena"
     published_in="2018-2021"
 	%}
 

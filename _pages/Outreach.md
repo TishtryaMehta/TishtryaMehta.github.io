@@ -17,7 +17,6 @@ I have also spoken at a number of 'Pint of Science' public lectures: "What to do
 	%}
 </table>
 
-url="https://www.youtube.com/watch?v=TjHttkL6ie0&t=264s"
 I've also regularly spoken at Warwick's Christmas Lectures to audiences of 1000+. In 2018 this was alongside Dr. Anne-Marie Broomhall on "Do you hear that Star Singing? Unveiling the music of helioseismology". In 2020, the Christmas Lectures moved online, and I presented "[How to measure distances in space: The astronomical ruler](https://www.youtube.com/watch?v=IKr9WOxtyqQ&t=33s)" (2020). Since 2021, I have been invited back annually as a guest co-presenter at the Christmas Lectures, which led to our being awarded with the [Warwick Wows and Wonders Award](https://warwick.ac.uk/insite/news/intnews2/january_wonders_and_wows/).
 
 
@@ -26,7 +25,7 @@ I've also regularly spoken at Warwick's Christmas Lectures to audiences of 1000+
 		url="https://artanis.substack.com/p/your-startup-shouldnt-be-a-rocketship"
 		img_path="PoS_2022_2.png"
 		title="How to measure distances in space: The astronomical ruler"
-		published_in="November 2020"
+		published_in="2020"
 	%}
 </table>
 
