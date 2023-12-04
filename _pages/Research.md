@@ -29,7 +29,7 @@ Theses
         url="https://drive.google.com/file/d/1a79lc_GFT9CRWgCfeCyoNqvBiHpEYQB0/view?usp=sharing"
 		img_path="CFSA.jpg"
 		title="Masters Thesis: Investigating the behaviour of quasi-periodic pulsations in solar flares using Empirical Mode Decomposition"
-		published_in="September 2018""
+		published_in="September 2018"
 	%}
 </table><br>
 
@@ -54,7 +54,7 @@ Publications
 		img_path="COASTER.jpg"
 		title="Reach Out, Touch Space"
 		author_list="Mehta, T., McDonald, C., Nealon, B."
-		published_in="Astronomy & Geophysics (A&G), 2022""
+		published_in="Astronomy & Geophysics (A&G), 2022"
 	%}
 </table><br>
 
