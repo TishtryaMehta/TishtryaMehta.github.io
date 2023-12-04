@@ -13,6 +13,11 @@ Experienced data scientist with expertise in leveraging data to make meaningful 
 [Award winning](https://warwick.ac.uk/fac/sci/physics/news/?newsItem=8a17841b8659de1e0186a2cd70aa1649) science communicator and outreach expert, with strong experience in on-stage and hands-on live science shows. 
 
 Oh, and it's pronounced: *Tish*-tree-uh *Meh*-ta! 
+
+
+
+
+---
 ---
 
 Experience
