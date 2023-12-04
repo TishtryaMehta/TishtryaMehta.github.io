@@ -74,7 +74,7 @@ Publications
 		img_path="EMD.PNG"
 		title="A blueprint of state-of-the-art techniques for detecting quasi-periodic pulsations in solar and stellar flares"
 		author_list="Broomhall, A-M., Davenport, J., Hayes, L., Inglis, A., Kolotkov, D., McLaughlin, J., Mehta, T., Nakariakov, V., Notsu, Y., Pascoe, D., Pugh, C. and Van Doorsselaere, T."
-		published_in="The Astrophyisical Journal (ApJ) 2019"
+		published_in="The Astrophysical Journal (ApJ) 2019"
 	%}
 </table><br>
 
