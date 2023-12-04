@@ -51,7 +51,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://academic.oup.com/astrogeo/article-abstract/63/5/5.21/6697060"
-		img_path="COASTER.jpg"
+		img_path="\images\COASTER.jpg"
 		title="Reach Out, Touch Space"
 		author_list="Mehta, T., McDonald, C., Nealon, B."
 		published_in="Astronomy & Geophysics (A&G), 2022"
@@ -61,7 +61,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://academic.oup.com/mnras/article/515/2/2415/6650367"
-		img_path="QBO.PNG"
+		img_path="images\QBO.PNG"
 		title="Cycle dependence of a quasi-biennial variability in the solar interior"
 		author_list="Mehta, T., Jain, K., Tripathy, S.C., Keifer, R., Kolotkov, D., Broomhall, A.-M. "
 		published_in="Monthly Notices of the Royal Astronomical Society (MNRAS), 2022"
@@ -71,7 +71,7 @@ Publications
 <table style="border: none">  
 	{%  include publications.html
         url="https://0-iopscience-iop-org.pugwash.lib.warwick.ac.uk/article/10.3847/1538-4365/ab40b3"
-		img_path="EMD.PNG"
+		img_path="images/EMD.PNG"
 		title="A blueprint of state-of-the-art techniques for detecting quasi-periodic pulsations in solar and stellar flares"
 		author_list="Broomhall, A-M., Davenport, J., Hayes, L., Inglis, A., Kolotkov, D., McLaughlin, J., Mehta, T., Nakariakov, V., Notsu, Y., Pascoe, D., Pugh, C. and Van Doorsselaere, T."
 		published_in="The Astrophyisical Journal (ApJ) 2019"
@@ -85,7 +85,7 @@ Education
 <table style="border: none">  
 	{%  include education.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/mehta/"
-		img_path="warwick.png"
+		img_path="/images/warwick.png"
 		title="PhD in Physics"
 		author_list="Supervisors: Dr. Anne-Marie Broomhall"
     published_in="Sep 2018 - December 2022"
