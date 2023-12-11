@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tishtrya Mehta"
   avatar           : "Tish.jpg"
-  bio              : "Data Scientist, Solar Physicist & Professional Science Communicator"
+  bio              : "Data Scientist, Physicist & Professional Science Communicator"
   location         : "London, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=nwYhVo0AAAAJ&hl=en"
-  email            : tishtrya.mehta AT gmail.co.uk
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=WzSwXcgAAAAJ&hl=en"
+  email            :  tishtrya.mehta AT gmail.co.uk
+  researchgate     : "https://www.researchgate.net/profile/Tishtrya-Mehta-2"
   uri              : 
   bitbucket        :
   codepen          :
