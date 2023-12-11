@@ -7,6 +7,8 @@ author_profile: true
 
 I also take a keen interest in public engagement and improving access for minorities in STEM. In 2022 I was awarded the Postgraduate Warwick Award for Public and Community Engagement ([WAPCE](https://warwick.ac.uk/wie/recognition/wapce/)) partly due to my work with STEM Connections, in which I created a activity aimed at the intersection of art and science. The activity [Embroider a Sunquake!](https://warwick.ac.uk/fac/sci/wmg/about/outreach/stemconnections/resources/helioseismology/) has been showcased to over 500 students and has been exhibited at the National Astronomy Meeting 2022 and the Caithness International Science Festival 2022.
 
+Please see my [Guide to Effective Outreach](/Guide.pdf) for my top tips on how to run an event with *impact*!
+
 I have also spoken at a number of 'Pint of Science' public lectures: "What to do when the Sun throws a temper tantrum" (2018) , "Who would win in a fight; the Sun or a billion lions?" (co-written and co-presented with Dr. Alun Rees, 2019), and "[Escaping the Sun: a photon's 100,000 year journey](https://www.youtube.com/watch?v=TjHttkL6ie0&t=264s)" (2021)
 
 <table style="border: none">  
