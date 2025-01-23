@@ -22,13 +22,23 @@ I'm also an avid crafter, and love anything that combines my love of maths, patt
 
 Experience
 ======
+
+<table style="border: none">  
+	{%  include experience.html
+		url="https://www.gov.uk/government/organisations/office-for-local-government/about"
+        author_list="HM Government"
+		img_path="MHCLG_logo.svg"
+		title="Data Scientist"
+    published_in="February 2024 - present"
+	%}
+
 <table style="border: none">  
 	{%  include experience.html
 		url="https://warwick.ac.uk/fac/sci/physics/research/cfsa/"
         author_list="University of Warwick"
 		img_path="CFSA.jpg"
-		title="Research fellow"
-    published_in="January 2023 - August 2023"
+		title="Postdoctoral Researcher"
+    published_in=" January - August 2023"
 	%}
 
 	{%  include experience.html
