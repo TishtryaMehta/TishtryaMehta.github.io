@@ -10,3 +10,5 @@ main:
     url: "/Guide.pdf"
   - title: "CV"
     url: "/Mehta_CV_public.pdf"
+  - title: "Blog"
+    url: "https://tishtrya.substack.com/"
