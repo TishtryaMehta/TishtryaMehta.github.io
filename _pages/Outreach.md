@@ -64,14 +64,12 @@ Since 2021, she has been invited back annually as a **guest co-presenter**, work
 Tish visits schools delivering engaging talks on STEM careers and cutting-edge technologies, from how Natural Language Processing enables computers to "read", to the engineering behind the Very Large Telescopes in Chile. She has worked with tens of schools across Y4-Y13s, with topical lecture, hands on experiments, and careers advice. 
 
 <table style="border: none">
-  {% include experience.html
-    img_path="UHS_talk.png"
+  {% img_path="UHS_talk.png"
     title="Inspiring students at Ursuline High School, Wimbledon"
   %}
 </table>
 <table style="border: none">
-  {% include experience.html
-    img_path="arnold_lodge_1.jpeg"
+  {% img_path="arnold_lodge_1.jpeg"
     title="Arnold Lodge School, Leamington Spa"
   %}
 </table>
