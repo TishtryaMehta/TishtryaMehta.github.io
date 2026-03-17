@@ -65,13 +65,13 @@ Tish visits schools delivering engaging talks on STEM careers and cutting-edge t
 
 <table style="border: none">
   {% include experience.html
-    img_path="UHS.png"
+    img_path="UHS_talk.png"
     title="Inspiring students at Ursuline High School, Wimbledon"
   %}
 </table>
 <table style="border: none">
   {% include experience.html
-    img_path="Arnold_lodge_1.png"
+    img_path="arnold_lodge_1.jpeg"
     title="Arnold Lodge School, Leamington Spa"
   %}
 </table>
