@@ -16,7 +16,7 @@ Tish is passionate about making science accessible and about opening doors for u
 Tish researches, writes, and presents live science shows for broad audiences exploring the science and technology that shapes everyday life. Topics include how wifi works, what happens when AI goes wrong, and how 0s and 1s can convey something as human as sentiment. Tish has recently **partnered with Education in Action** — delivering talks with hands-on demos to thousands of students across the UK.
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
-  <img src="/assets/images/AI_talk.jpeg" alt="With Education in Action, 2025" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <img src="/Outreach/images/AI_talk.jpeg" alt="With Education in Action, 2025" style="width:260px; height:260px; object-fit:cover; display:block;">
   <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">With Education in Action, 2025</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Tish is a regular presenter at Warwick's **Christmas Lectures** — annual publi
 Since 2021, she has been invited back annually as a **guest co-presenter** — work recognised with the [**Warwick Wows and Wonders Award**](https://warwick.ac.uk/insite/news/intnews2/january_wonders_and_wows/).
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
-  <img src="/assets/images/PoS_2022_2.png" alt="How to measure distances in space: The astronomical ruler" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <img src="/Outreach/images/PoS_2022_2.png" alt="How to measure distances in space: The astronomical ruler" style="width:260px; height:260px; object-fit:cover; display:block;">
   <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">How to measure distances in space: The astronomical ruler, 2020</figcaption>
 </figure>
 
@@ -57,11 +57,11 @@ Tish visits schools delivering engaging talks on STEM careers and cutting-edge t
 
 <div style="display:flex; gap:1.5em; flex-wrap:wrap; margin:1em 0;">
   <figure style="margin:0;">
-    <img src="/assets/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
+    <img src="/Outreach/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
     <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Ursuline High School, Wimbledon</figcaption>
   </figure>
   <figure style="margin:0;">
-    <img src="/assets/images/arnold_lodge_1.jpeg" alt="Arnold Lodge School, Leamington Spa" style="width:260px; height:260px; object-fit:cover; display:block;">
+    <img src="/Outreach/images/arnold_lodge_1.jpeg" alt="Arnold Lodge School, Leamington Spa" style="width:260px; height:260px; object-fit:cover; display:block;">
     <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Arnold Lodge School, Leamington Spa</figcaption>
   </figure>
 </div>
@@ -79,7 +79,7 @@ In partnership with **STEM Connections**, Tish created [**Embroider a Sunquake!*
 Tish often speaks on panels across England on careers in technology and AI, sharing pathways into STEM and data science with students and early-career professionals.
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
-  <img src="/assets/images/guest_speaker.jpeg" alt="Guest speaker at CiWP" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <img src="/Outreach/images/guest_speaker.jpeg" alt="Guest speaker at CiWP" style="width:260px; height:260px; object-fit:cover; display:block;">
   <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Guest speaker at CiWP</figcaption>
 </figure>
 
