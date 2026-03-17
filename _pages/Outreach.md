@@ -13,7 +13,7 @@ Tish is passionate about making science accessible and about opening doors for u
 
 ## Public Lectures, Broadcasting & Live Events
 
-Tish researches, writes, and presents live science shows for broad audiences exploring the science and technology that shapes everyday life. Topics include how wifi works, what happens when AI goes wrong, and how 0s and 1s can convey something as human as sentiment. Tish has recently **partnered with Education in Action** — delivering talks with hands-on demos to thousands of students across the UK.
+Tish researches, writes, and presents live science shows for broad audiences exploring the science and technology that shapes everyday life. Topics include how wifi works, what happens when AI goes wrong, and how 0s and 1s can convey something as human as sentiment. Tish has recently **partnered with Education in Action**, delivering talks with hands-on demos to thousands of students across the UK.
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
   <img src="/Outreach/images/AI_talk.jpeg" alt="With Education in Action, 2025" style="width:260px; height:260px; object-fit:cover; display:block;">
@@ -25,7 +25,7 @@ Tish has also appeared on multiple occasions as a **guest scientist on BBC CWR**
 Her public lecturing extends to **Pint of Science** events, where she has written and delivered several talks including:
 
 - *"What to do when the Sun throws a temper tantrum"*
-- *"Who would win in a fight: the Sun or a billion lions?"* — co-presented with Dr. Alun Rees
+- *"Who would win in a fight: the Sun or a billion lions?"*
 - *"[Escaping the Sun: a photon's 100,000 year journey](https://www.youtube.com/watch?v=TjHttkL6ie0&t=264s)"*
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
@@ -37,12 +37,12 @@ Her public lecturing extends to **Pint of Science** events, where she has writte
 
 ## Live Stage Shows
 
-Tish is a regular presenter at Warwick's **Christmas Lectures** — annual public science events drawing audiences of 1,000+ young scientists-to-be! Highlights include:
+Tish is a regular presenter at Warwick's **Christmas Lectures**, which are annual public science events drawing audiences of 1,000+ young scientists-to-be! Highlights include:
 
 - *"Do you hear that Star Singing? Unveiling the music of helioseismology"*
-- *"[How to measure distances in space: The astronomical ruler](https://www.youtube.com/watch?v=IKr9WOxtyqQ&t=33s)"* — 2020 (online edition)
+- *"[How to measure distances in space: The astronomical ruler](https://www.youtube.com/watch?v=IKr9WOxtyqQ&t=33s)"* (online edition)
 
-Since 2021, she has been invited back annually as a **guest co-presenter** — work recognised with the [**Warwick Wows and Wonders Award**](https://warwick.ac.uk/insite/news/intnews2/january_wonders_and_wows/).
+Since 2021, she has been invited back annually as a **guest co-presenter**, and recognised with the [**Warwick Wows and Wonders Award**](https://warwick.ac.uk/insite/news/intnews2/january_wonders_and_wows/).
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
   <img src="/Outreach/images/PoS_2022_2.png" alt="How to measure distances in space: The astronomical ruler" style="width:260px; height:260px; object-fit:cover; display:block;">
@@ -53,7 +53,7 @@ Since 2021, she has been invited back annually as a **guest co-presenter** — w
 
 ## School Visits
 
-Tish visits schools delivering engaging talks on STEM careers and cutting-edge technologies — from how Natural Language Processing enables computers to "read", to the engineering behind the Very Large Telescopes in Chile. She has worked with tens of schools across Y4–Y13, with topical lectures, hands-on experiments, and careers advice.
+Tish visits schools delivering engaging talks on STEM careers and cutting-edge technologies, from how Natural Language Processing enables computers to "read", to the engineering behind the Very Large Telescopes in Chile. She has worked with tens of schools across Y4–Y13, with topical lectures, hands-on experiments, and careers advice.
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
   <img src="/Outreach/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
@@ -69,11 +69,11 @@ Tish visits schools delivering engaging talks on STEM careers and cutting-edge t
 
 ## Community Outreach
 
-In partnership with **STEM Connections**, Tish created [**Embroider a Sunquake!**](https://warwick.ac.uk/fac/sci/wmg/about/outreach/stemconnections/resources/helioseismology/) — an activity at the intersection of art and helioseismology. It has been experienced by **thousands of students** and exhibited at the **National Astronomy Meeting** and the **Caithness International Science Festival**.
+In partnership with **STEM Connections**, Tish created [**Embroider a Sunquake!**](https://warwick.ac.uk/fac/sci/wmg/about/outreach/stemconnections/resources/helioseismology/) an activity at the intersection of her favourite hobbies; embroidery and helioseismology. It has been experienced by **thousands of students** and exhibited at the **National Astronomy Meeting** and the **Caithness International Science Festival**.
 
 ---
 
-## Guest Speaker — Careers in Tech & AI
+## Panel Speaker
 
 Tish often speaks on panels across England on careers in technology and AI, sharing pathways into STEM and data science with students and early-career professionals.
 
