@@ -29,7 +29,7 @@ Her public lecturing extends to **Pint of Science** events, where she has writte
 - *"[Escaping the Sun: a photon's 100,000 year journey](https://www.youtube.com/watch?v=TjHttkL6ie0&t=264s)"*
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
-  <img src="/assets/images/PoS_2021_2.png" alt="Escaping the Sun: a photon's 100,000 year journey" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <img src="/Outreach/images/PoS_2021_2.png" alt="Escaping the Sun: a photon's 100,000 year journey" style="width:260px; height:260px; object-fit:cover; display:block;">
   <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Escaping the Sun: a photon's 100,000 year journey, 2021</figcaption>
 </figure>
 
@@ -55,16 +55,15 @@ Since 2021, she has been invited back annually as a **guest co-presenter** — w
 
 Tish visits schools delivering engaging talks on STEM careers and cutting-edge technologies — from how Natural Language Processing enables computers to "read", to the engineering behind the Very Large Telescopes in Chile. She has worked with tens of schools across Y4–Y13, with topical lectures, hands-on experiments, and careers advice.
 
-<div style="display:flex; gap:1.5em; flex-wrap:wrap; margin:1em 0;">
-  <figure style="margin:0;">
-    <img src="/Outreach/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
-    <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Ursuline High School, Wimbledon</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="/Outreach/images/arnold_lodge_1.jpeg" alt="Arnold Lodge School, Leamington Spa" style="width:260px; height:260px; object-fit:cover; display:block;">
-    <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Arnold Lodge School, Leamington Spa</figcaption>
-  </figure>
-</div>
+<figure style="display:inline-block; width:260px; margin:1em 0;">
+  <img src="/Outreach/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Guest speaker at CiWP</figcaption>
+</figure>
+
+<figure style="display:inline-block; width:260px; margin:1em 0;">
+  <img src="/Outreach/images/arnold_lodge_1.jpeg" alt="Arnold Lodge School, Leamington Spa" style="width:260px; height:260px; object-fit:cover; display:block;">
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Guest speaker at CiWP</figcaption>
+</figure>
 
 ---
 
