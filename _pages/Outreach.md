@@ -57,12 +57,12 @@ Tish visits schools delivering engaging talks on STEM careers and cutting-edge t
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
   <img src="/Outreach/images/UHS_talk.png" alt="Ursuline High School, Wimbledon" style="width:260px; height:260px; object-fit:cover; display:block;">
-  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Guest speaker at CiWP</figcaption>
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Ursuline High School, Wimbledon</figcaption>
 </figure>
 
 <figure style="display:inline-block; width:260px; margin:1em 0;">
   <img src="/Outreach/images/arnold_lodge_1.jpeg" alt="Arnold Lodge School, Leamington Spa" style="width:260px; height:260px; object-fit:cover; display:block;">
-  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Guest speaker at CiWP</figcaption>
+  <figcaption style="font-size:0.8em; color:#666; margin-top:0.4em; text-align:center;">Arnold Lodge School, Leamington Spa</figcaption>
 </figure>
 
 ---
